@@ -46,7 +46,7 @@ from spotipy.oauth2 import SpotifyOAuth
 
 ```python
 CLIENT_ID = '708d6e7a6ad74a81883ed6e1ddf02'
-CLIENT_SECRET = '64f88fa2e5fb41e583fdbbf1c6d'
+CLIENT_SECRET = '*************************'
 REDIRECT_URI = 'http://localhost:8888/callback'
 SCOPE = 'user-read-recently-played playlist-modify-public playlist-modify-private'
 CACHE_PATH = f".cache-{CLIENT_ID}"
